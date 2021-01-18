@@ -1,0 +1,29 @@
+ul {
+  list-style: none;
+}
+.flex_wrapper {
+  display: flex;
+  margin-top: 15px;
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+a,
+a:hover {
+  text-decoration: none;
+  font-weight: 500;
+}
+.active-link,
+.active-link:hover {
+  color: yellow;
+  background-color: blue;
+}
+form {
+  margin-top: 10px;
+  padding-left: 10px;
+}
+.the-button {
+  margin: 15px 0 0 15px;
+}
